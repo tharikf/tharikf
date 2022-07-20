@@ -14,9 +14,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Tharik" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Tharik" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="Tharik" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
   <img align="center" alt="Tharik" height="30" width="40" src="https://www.stata.com/includes/images/stata-logo-blue.svg">
-  <img align="center" alt="Tharik" height="30" width="40" src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843">
+  <img align="center" alt="Tharik" height="30" width="40" src="https://connectoricons-prod.azureedge.net/releases/v1.0.1578/1.0.1578.2813/powerbi/icon.png">
   <img align="center" alt="Tharik" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
           
