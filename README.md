@@ -1,9 +1,17 @@
-### Olá! Este é o meu github!
+<div>
+<h1>Olá! Este é o meu github!<h1>
+</div>
 
-- Sou formado em Economia na Universidade do Estado de Santa Catarina.
-- Estou realizando mestrado em Economia Aplicada na Universidade Federal de Santa Catarina.
-- 💻 Atualmente estou trabalhando com análise multivariada em econometria.
-- 📗 Estudando ciência de dados com linguagem R e Python.
+<html>
+<body>
+<p>&diams; Sou formado em Economia na Universidade do Estado de Santa Catarina.</p>
+<p>&diams; Estou realizando mestrado em Economia Aplicada na Universidade Federal de Santa Catarina.</p>
+<p>&diams; Atualmente estou trabalhando com análise multivariada em econometria.</p>
+<p>&diams; Estudando ciência de dados com linguagem R e Python.</p>
+</body>
+</html>
+
+
 
 <div>
   <h2>Entre em contato comigo através das seguintes redes sociais.<h2>
