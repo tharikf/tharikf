@@ -20,7 +20,6 @@
 
 <div>
 <h2>Essas são as tecnologias com que trabalho ou já trabalhei.</h2>
-
   <img alt="Tharik" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img alt="Tharik" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img alt="Tharik" height="30" width="40" src="https://www.stata.com/includes/images/stata-logo-blue.svg">
