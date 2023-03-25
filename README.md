@@ -4,9 +4,9 @@
 
 <div>
 <p>&diams; Sou formado em Economia na Universidade do Estado de Santa Catarina.</p>
-<p>&diams; Estou realizando mestrado em Economia Aplicada na Universidade Federal de Santa Catarina.</p>
+<p>&diams; Mestre em Economia Aplicada na Universidade Federal de Santa Catarina.</p>
 <p>&diams; Atualmente estou trabalhando com análise multivariada em econometria.</p>
-<p>&diams; Estudando ciência de dados com linguagem R e Python.</p>
+<p>&diams; Estudante de ciência de dados com linguagem R, Python e iniciando em Scala.</p>
 </div>
 
 
