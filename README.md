@@ -10,13 +10,6 @@
 </div>
 
 
-<div>
-<h2>Entre em contato comigo através das seguintes redes sociais.</h2>
-
-  <a href="https://www.linkedin.com/in/tharikff1/" target="_black"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:tharikff1@gmail.com" target="_black"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-
 
 <div>
 <h2>Essas são as tecnologias com que trabalho ou já trabalhei.</h2>
